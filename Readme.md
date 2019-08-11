@@ -9,7 +9,6 @@ Usage
 
 
 - `GeohashDistance.inKm(hash1, hash2)`: return distance in kilometers between the given hashes
-- `GeohashDistance.inMiles(hash1, hash2)`: return distance in miles between the given hashes
 
 ### Import within node.js
 
